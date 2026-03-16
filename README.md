@@ -4,27 +4,28 @@
 🚀 Passionate Developer | 💡 Problem Solver | 🌏 Tech Enthusiast
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=LaavKush&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+## 🧩 Problem Solver
+
+<p align="center">
+<img src="https://img.shields.io/badge/Focus-Web%20Development-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-India-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Languages-English%20%7C%20Hindi-blue?style=for-the-badge"/>
+</p>
+
 ---
 
 ## ⚡ About Me
 
-<p align="center">
-
-🔹 Location: India  
-🔹 Role: Developer  
-
-🔹 Interests  
-• Web Development  
-• Open Source  
-• Competitive Programming  
-• AI & ML  
-
-🔹 Currently Learning  
-• System Design  
-• Cloud Computing  
-• DevOps  
-
-</p>
+- 📍 Location: India  
+- 💻 Role: Developer  
+- 🌱 Currently learning: System Design, Cloud Computing, DevOps  
+- 💡 Interests: Web Development, Open Source, Competitive Programming, AI/ML  
 
 ---
 
@@ -39,7 +40,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,html,css,mongodb,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,nextjs,html,css,mongodb,git,github,vscode,linux"/>
 </p>
 
 ---
@@ -69,26 +70,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-<a href="mailto:example@gmail.com">
-<img src="https://img.shields.io/badge/Email-contact-blue?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -97,10 +78,12 @@
 
 ---
 
-## 👀 Profile Views
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=LaavKush&label=Profile%20views&color=0e75b6&style=flat">
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=twitter"/></a>
+<a href="mailto:example@gmail.com"><img src="https://img.shields.io/badge/Email-contact-blue?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
