@@ -92,7 +92,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/LaavKush/LaavKush/blob/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/LaavKush/LaavKush/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
