@@ -89,16 +89,16 @@
 
 <div align="center">
 
-| 🎪 **PROJECT** | 🛠️ **TECH STACK** | 🏆 **ACHIEVEMENT** | 🔗 **LINK** |
-|:---------------|:-------------------|:-------------------|:-------------|
+| 🎪 PROJECT | 🛠️ TECH STACK | 🏆 ACHIEVEMENT | 🔗 LINK |
+|:----------|:--------------|:--------------|:--------|
 
-| 🤖 **AI Data Storytelling Bot** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square) ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | ⚡ 5x faster ML + LLM insights | [View →](https://github.com/LaavKush/InsightForge-AI) |
+| 🤖 AI Storytelling Bot | ![Py](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![API](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![Trf](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square) ![XGB](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square) ![ST](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square) | ⚡ 5x faster insights | [View →](https://github.com/LaavKush/InsightForge-AI) |
 
-| 🚀 **Elevatr (Career OS)** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🧠 AI career mentorship system | [View →](https://github.com/LaavKush/Elevatr) |
+| 🚀 Elevatr | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square) ![Node](https://img.shields.io/badge/Node-339933?style=flat-square) ![Exp](https://img.shields.io/badge/Express-000000?style=flat-square) ![FB](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square) ![Py](https://img.shields.io/badge/Python-3776AB?style=flat-square) | 🧠 AI mentorship system | [View →](https://github.com/LaavKush/Elevatr) |
 
-| 🏫 **CampusVista** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | 🗺️ Campus navigation + services platform | [View →](https://github.com/LaavKush/CampusVista) |
+| 🏫 CampusVista | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square) ![TW](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square) ![FB](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square) | 🗺️ Campus + services | [View →](https://github.com/LaavKush/CampusVista) |
 
-| 💰 **TaxNudge (AI Finance)** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 📊 AI tax planning & insights | [View →](https://github.com/LaavKush/TaxNudge) |
+| 💰 TaxNudge | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square) ![API](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![DB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square) ![Py](https://img.shields.io/badge/Python-3776AB?style=flat-square) | 📊 AI tax insights | [View →](https://github.com/LaavKush/TaxNudge) |
 
 </div>
 
