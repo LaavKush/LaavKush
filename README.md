@@ -221,8 +221,8 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=ayushsinghal021&color=brightgreen&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/ayushsinghal021?style=for-the-badge&color=4ECDC4)
+![Profile Views](https://komarev.com/ghpvc/?username=laavkush&color=brightgreen&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/laavkush?style=for-the-badge&color=4ECDC4)
 
 
 **"🚀 Coding the future, one quantum bit at a time 🌌"**
