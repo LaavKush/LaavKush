@@ -120,7 +120,7 @@
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=laavkush&show_icons=true&theme=neon&hide_border=true&bg_color=0d1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=white&ring_color=4ECDC4"/>
-<!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=laavkush&theme=neon&hide_border=true&background=0d1117&stroke=4ECDC4&ring=FF6B6B&fire=4ECDC4&currStreakLabel=4ECDC4"/> -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=laavkush&theme=neon&hide_border=true&background=0d1117&stroke=4ECDC4&ring=FF6B6B&fire=4ECDC4&currStreakLabel=4ECDC4"/> 
 
 </div>
 
