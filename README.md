@@ -136,7 +136,7 @@
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/⚔️_LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=000000)](https://leetcode.com/u/zhQBmg4DDM/)
+[![LeetCode](https://img.shields.io/badge/⚔️_LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=000000)](https://leetcode.com/u/Laavanya_1105/)
 
 </div>
 
