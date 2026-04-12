@@ -223,7 +223,7 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=ayushsinghal021&color=brightgreen&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/ayushsinghal021?style=for-the-badge&color=4ECDC4)
-![GitHub stars](https://img.shields.io/github/stars/ayushsinghal021?style=for-the-badge&color=FF6B6B)
+
 
 **"🚀 Coding the future, one quantum bit at a time 🌌"**
 
