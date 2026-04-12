@@ -89,43 +89,49 @@
 
 <div align="center">
 
-| 🎪 **PROJECT** | 🛠️ **TECH STACK** | 🏆 **IMPACT / ACHIEVEMENT** | 🔗 **LINK** |
-|:---------------|:------------------|:----------------------------|:-------------|
+## 🚀 Featured Projects
 
-| 🚀 **Elevatr (Career OS)** | 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-| 🧠 AI-powered career mentorship platform with dynamic pathing, resume optimization & opportunity matching |
-[View →](#) |
+<table>
+<tr>
+<td width="50%">
 
-| 🏫 **CampusVista** | 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-| 🗺️ Built semi-3D campus platform with service ordering, role-based access & secure authentication |
-[View →](#) |
+### 🚀 Elevatr (Career OS)
+🛠️ React • Node.js • Express • Firebase • Python  
+🧠 AI-powered career mentorship platform with dynamic pathing, resume optimization & opportunity matching  
+🔗 <a href="#">View Project →</a>
 
-| 🤖 **AI Data Storytelling Bot** | 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-| ⚡ Automated insight generation (ML + LLMs) → 5x faster analysis & 30% better insights |
-[View →](#) |
+</td>
 
-| 💰 **TaxNudge (AI Finance)** | 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-| 📊 AI-driven tax optimization with personalized savings insights & real-time financial intelligence |
-[View →](#) |
+<td width="50%">
+
+### 🏫 CampusVista
+🛠️ React • Vite • Tailwind • Firebase  
+🗺️ Semi-3D campus platform with ordering system, role-based access & secure authentication  
+🔗 <a href="#">View Project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI Data Storytelling Bot
+🛠️ Python • FastAPI • Transformers • XGBoost • Streamlit  
+⚡ 5x faster insights using ML + LLM-based narrative generation  
+🔗 <a href="#">View Project →</a>
+
+</td>
+
+<td width="50%">
+
+### 💰 TaxNudge
+🛠️ HTML • CSS • FastAPI • MongoDB • Python  
+📊 AI-powered tax optimization with real-time financial intelligence  
+🔗 <a href="#">View Project →</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -190,18 +196,46 @@
 
 <div align="center">
 
-| 🏆 **ACHIEVEMENT** | 📅 **DATE** | 🎯 **DESCRIPTION** |
-|:------------------|:------------|:-------------------|
+## 🏆 Major Achievements
 
-| 🥇 **Gemini Genesis Hackathon Winner** | 2024 | Secured 1st position among 100+ participants at Devcation Hackathon |
+<table>
+<tr>
+<th>🏆 Achievement</th>
+<th>📅 Date</th>
+<th>🎯 Description</th>
+</tr>
 
-| 🥈 **Cloudflare x CloudPeace Hackathon Runner-Up** | 2026 | Ranked Top 5/15 finalists among 200+ teams; built **ScamLens Bharat**, a multi-modal scam detection platform |
+<tr>
+<td>🥇 Gemini Genesis Hackathon Winner</td>
+<td>2024</td>
+<td>Secured 1st position among 100+ participants (Devcation)</td>
+</tr>
 
-| 🚀 **AI Product Builder** | 2025–Present | Developed multiple AI-driven applications including career mentorship system, data storytelling bot & tax optimization platform |
+<tr>
+<td>🥈 Cloudflare x CloudPeace Runner-Up</td>
+<td>2026</td>
+<td>Top 5/15 finalists among 200+ teams; built ScamLens Bharat</td>
+</tr>
 
-| 💻 **Active DSA Problem Solver** | Ongoing | Consistently solving problems on LeetCode & competitive platforms |
+<tr>
+<td>🚀 AI Product Builder</td>
+<td>2025–Present</td>
+<td>Built multiple AI-driven systems across career, finance & data</td>
+</tr>
 
-| 🎤 **Technical Speaker & Community Lead** | Ongoing | Led tech initiatives, sessions & community-driven learning programs |
+<tr>
+<td>💻 DSA Problem Solver</td>
+<td>Ongoing</td>
+<td>Active on LeetCode & competitive coding platforms</td>
+</tr>
+
+<tr>
+<td>🎤 Tech Speaker & Community Lead</td>
+<td>Ongoing</td>
+<td>Conducted sessions & led tech initiatives</td>
+</tr>
+
+</table>
 
 </div>
 
