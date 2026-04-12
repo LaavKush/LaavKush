@@ -89,16 +89,12 @@
 
 <div align="center">
 
-| 🎪 PROJECT | 🛠️ TECH STACK | 🏆 ACHIEVEMENT | 🔗 LINK |
-|:----------|:--------------|:--------------|:--------|
-
-| 🤖 AI Storytelling Bot | ![Py](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![API](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![Trf](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square) ![XGB](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square) ![ST](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square) | ⚡ 5x faster insights | [View →](https://github.com/LaavKush/InsightForge-AI) |
-
-| 🚀 Elevatr | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square) ![Node](https://img.shields.io/badge/Node-339933?style=flat-square) ![Exp](https://img.shields.io/badge/Express-000000?style=flat-square) ![FB](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square) ![Py](https://img.shields.io/badge/Python-3776AB?style=flat-square) | 🧠 AI mentorship system | [View →](https://github.com/LaavKush/Elevatr) |
-
-| 🏫 CampusVista | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square) ![TW](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square) ![FB](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square) | 🗺️ Campus + services | [View →](https://github.com/LaavKush/CampusVista) |
-
-| 💰 TaxNudge | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square) ![API](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![DB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square) ![Py](https://img.shields.io/badge/Python-3776AB?style=flat-square) | 📊 AI tax insights | [View →](https://github.com/LaavKush/TaxNudge) |
+| 🎪 **PROJECT** | 🛠️ **TECH STACK** | 🏆 **ACHIEVEMENT** | 🔗 **LINK** |
+|:---------------|:-------------------|:-------------------|:-------------|
+| 🤖 **MLOps Platform** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | 🚀 Automated 4 Microservices | [View →](https://github.com/ayushsinghal021) |
+| 🧠 **AI Storytelling Engine** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | ⚡ 60s Processing Time | [View →](https://github.com/ayushsinghal021) |
+| ⚛️ **Quantum Crypto Protocol** | ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🧠 Developing MVP | [View →](https://github.com/ayushsinghal021) |
+| 📚 **Vedic Text Analyzer** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/Cultural_AI-FF6B6B?style=flat-square&logo=ai&logoColor=white) | 📜 Patent Granted | [View →](https://github.com/ayushsinghal021) |
 
 </div>
 
