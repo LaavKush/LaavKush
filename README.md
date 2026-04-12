@@ -1,122 +1,238 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=LAAVANYA%20KUSHWAHA&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=15"/>
+</div>
 
-# Hi 👋 I'm Laavanya Kushwaha
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=🚀+Building+Full+Stack+Applications...;🤖+Exploring+AI+%26+Machine+Learning...;📊+Solving+DSA+Problems+Daily...;💡+Turning+Ideas+into+Tech+Products...;🏆+Winning+Hackathons...;🌍+Creating+Impactful+Solutions..." alt="Typing SVG" />
 
-### 🚀 Full Stack Developer | AI & ML Enthusiast | B.Tech IT @ IGDTUW
+---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=00C896&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Hackathon+Winner;DSA+Lover;Building+Tech+for+Real+World+Problems" />
+## 🎯 **ABOUT ME**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+</div>
+
+<!-- <div align="center">
+  
+| 🎯 **ROLE** | 🌍 **LOCATION** | 🏆 **FOCUS** |
+|:------------|:----------------|:-------------|
+| AI & Backend Engineer | New Delhi, India | LLMS & Finance |
+
+</div> -->
+
+<div align="center">
+
+### 🔥 **TECHNICAL SKILLS**
+
+<div align="center">
+
+**💻 Programming Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts" />
+
+---
+
+**🌐 Frontend Development**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+
+---
+
+**⚙️ Backend Development**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+---
+
+**🗄 Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
+
+---
+
+**🤖 AI / Machine Learning**
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+---
+
+**🧠 Core CS & Problem Solving**
+<br>
+<img src="https://img.shields.io/badge/Data%20Structures-00C896?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-14532d?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-022c22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OS-203a43?style=for-the-badge"/>
+
+---
+
+**🧰 Tools & Technologies**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,firebase,vscode" />
+
+</div>
+
+
+---
+
+## 🚀 **FEATURED PROJECTS**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
+</div>
+
+<div align="center">
+
+| 🎪 **PROJECT** | 🛠️ **TECH STACK** | 🏆 **IMPACT / ACHIEVEMENT** | 🔗 **LINK** |
+|:---------------|:------------------|:----------------------------|:-------------|
+
+| 🚀 **Elevatr (Career OS)** | 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+| 🧠 AI-powered career mentorship platform with dynamic pathing, resume optimization & opportunity matching |
+[View →](#) |
+
+| 🏫 **CampusVista** | 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+| 🗺️ Built semi-3D campus platform with service ordering, role-based access & secure authentication |
+[View →](#) |
+
+| 🤖 **AI Data Storytelling Bot** | 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+| ⚡ Automated insight generation (ML + LLMs) → 5x faster analysis & 30% better insights |
+[View →](#) |
+
+| 💰 **TaxNudge (AI Finance)** | 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+| 📊 AI-driven tax optimization with personalized savings insights & real-time financial intelligence |
+[View →](#) |
 
 </div>
 
 ---
 
-# 💫 About Me
+## 📊 **GITHUB ANALYTICS**
 
-- 🔭 Currently building **Market Intelligence Platform**
-- 🧠 Interested in **AI Systems, ML, and Full Stack Development**
-- 🎯 Goal: **Build impactful tech products**
-- ⚡ Fun Fact:  
-  *I love turning real-world problems into tech solutions — and I once won a hackathon by building an AI-powered platform in limited time*
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+</div>
 
-🌐 Portfolio  
-👉 https://laavanyaportfolio.vercel.app
+<div align="center">
 
-📫 Email  
-👉 **laavanya2004kush@gmail.com**
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushsinghal021&show_icons=true&theme=neon&hide_border=true&bg_color=0d1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=white&ring_color=4ECDC4"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsinghal021&theme=neon&hide_border=true&background=0d1117&stroke=4ECDC4&ring=FF6B6B&fire=4ECDC4&currStreakLabel=4ECDC4"/>
 
----
+</div>
 
-# 🌐 Connect With Me
+<div align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsinghal021&layout=compact&theme=neon&hide_border=true&bg_color=0d1117&title_color=4ECDC4&text_color=white&langs_count=10&hide=jupyter%20notebook,javascript"/>
+</div>
 
-<p align="left">
-<a href="https://twitter.com/laavanyaku19891" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laavanyaku19891" height="30" width="40" />
-</a>
-
-<a href="https://linkedin.com/in/laavanya-kushwaha-5748a5291" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laavanya-kushwaha-5748a5291" height="30" width="40" />
-</a>
-
-<a href="https://kaggle.com/laavanyakushwaha" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="laavanyakushwaha" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/laavanyakushwaha" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laavanyakushwaha" height="30" width="40" />
-</a>
-
-<a href="https://www.hackerrank.com/laavanyakushwaha" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="laavanyakushwaha" height="30" width="40" />
-</a>
-
-<a href="https://www.leetcode.com/laavanya_1105" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="laavanya_1105" height="30" width="40" />
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/laavanyaku3zb5" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="laavanyaku3zb5" height="30" width="40" />
-</a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsinghal021&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=4ECDC4&area=true&hide_border=true&custom_title=🎮%20CODING%20ACTIVITY%20MAP"/>
+</div>
 
 ---
 
-# 🛠 Tech Stack
+## 🏆 **COMPETITIVE PROGRAMMING**
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
+</div>
 
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+### 🎯 **CODING PLATFORMS**
 
-### ⚙ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<div align="center">
 
-### 🗄 Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
+[![LeetCode](https://img.shields.io/badge/⚔️_LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=000000)](https://leetcode.com/u/zhQBmg4DDM/)
 
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</div>
 
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,docker,postman,firebase" />
+<div align="center">
 
----
+### 📈 **CODING STATISTICS**
 
-# 📊 GitHub Stats
+<a href="https://leetcode.com/u/zhQBmg4DDM/">
+  <img src="https://leetcode.card.workers.dev/zhQBmg4DDM?theme=dark&font=baloo&extension=null" alt="LeetCode Stats"/>
+</a>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=laavkush&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=laavkush&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laavkush&layout=compact&theme=tokyonight" />
-
-</p>
+</div>
 
 ---
 
-# 🏆 Achievements
+## 🔬 **RESEARCH & ACHIEVEMENTS**
 
-🏆 Hackathon Winner  
-💻 Active DSA Problem Solver  
-🎤 Speaker in Technical Events  
-🌍 Tech Community Leader  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+</div>
+
+### 🏅 **MAJOR ACHIEVEMENTS**
+
+<div align="center">
+
+| 🏆 **ACHIEVEMENT** | 📅 **DATE** | 🎯 **DESCRIPTION** |
+|:------------------|:------------|:-------------------|
+
+| 🥇 **Gemini Genesis Hackathon Winner** | 2024 | Secured 1st position among 100+ participants at Devcation Hackathon |
+
+| 🥈 **Cloudflare x CloudPeace Hackathon Runner-Up** | 2026 | Ranked Top 5/15 finalists among 200+ teams; built **ScamLens Bharat**, a multi-modal scam detection platform |
+
+| 🚀 **AI Product Builder** | 2025–Present | Developed multiple AI-driven applications including career mentorship system, data storytelling bot & tax optimization platform |
+
+| 💻 **Active DSA Problem Solver** | Ongoing | Consistently solving problems on LeetCode & competitive platforms |
+
+| 🎤 **Technical Speaker & Community Lead** | Ongoing | Led tech initiatives, sessions & community-driven learning programs |
+
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🌐 **CONNECT WITH ME**
 
-<p align="center">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+</div>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+<div align="center">
 
-</p>
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/laavanya-kushwaha-5748a5291/)
+[![GitHub](https://img.shields.io/badge/🐱_GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)]([https://github.com/ayushsinghal021](https://github.com/LaavKush))
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:workwithlaavanya@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=120&section=footer&animation=twinkling"/>
+</div>
 
-### ⭐ "Turning real-world problems into tech solutions"
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=ayushsinghal021&color=brightgreen&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/ayushsinghal021?style=for-the-badge&color=4ECDC4)
+![GitHub stars](https://img.shields.io/github/stars/ayushsinghal021?style=for-the-badge&color=FF6B6B)
+
+**"🚀 Coding the future, one quantum bit at a time 🌌"**
 
 </div>
