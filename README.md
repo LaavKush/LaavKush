@@ -89,49 +89,16 @@
 
 <div align="center">
 
-## 🚀 Featured Projects
+| 🎪 **PROJECT** | 🛠️ **TECH STACK** | 🏆 **ACHIEVEMENT** | 🔗 **LINK** |
+|:---------------|:-------------------|:-------------------|:-------------|
 
-<table>
-<tr>
-<td width="50%">
+| 🤖 **AI Data Storytelling Bot** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square) ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | ⚡ 5x faster insights with ML + LLM-based analysis | [View →]([#](https://github.com/LaavKush/InsightForge-AI)) |
 
-### 🚀 Elevatr (Career OS)
-🛠️ React • Node.js • Express • Firebase • Python  
-🧠 AI-powered career mentorship platform with dynamic pathing, resume optimization & opportunity matching  
-🔗 <a href="#">View Project →</a>
+| 🚀 **Elevatr (Career OS)** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🧠 AI-powered career mentorship platform with dynamic pathing & opportunity matching | [View →]([#](https://github.com/LaavKush/Elevatr)) |
 
-</td>
+| 🏫 **CampusVista** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | 🗺️ Semi-3D campus platform with role-based access & service workflows | [View →]([#](https://github.com/LaavKush/CampusVista)) |
 
-<td width="50%">
-
-### 🏫 CampusVista
-🛠️ React • Vite • Tailwind • Firebase  
-🗺️ Semi-3D campus platform with ordering system, role-based access & secure authentication  
-🔗 <a href="#">View Project →</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 AI Data Storytelling Bot
-🛠️ Python • FastAPI • Transformers • XGBoost • Streamlit  
-⚡ 5x faster insights using ML + LLM-based narrative generation  
-🔗 <a href="#">View Project →</a>
-
-</td>
-
-<td width="50%">
-
-### 💰 TaxNudge
-🛠️ HTML • CSS • FastAPI • MongoDB • Python  
-📊 AI-powered tax optimization with real-time financial intelligence  
-🔗 <a href="#">View Project →</a>
-
-</td>
-</tr>
-</table>
+| 💰 **TaxNudge (AI Finance)** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 📊 AI-driven tax optimization with real-time financial intelligence | [View →]([#](https://github.com/LaavKush/TaxNudge)) |
 
 </div>
 
@@ -145,17 +112,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushsinghal021&show_icons=true&theme=neon&hide_border=true&bg_color=0d1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=white&ring_color=4ECDC4"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsinghal021&theme=neon&hide_border=true&background=0d1117&stroke=4ECDC4&ring=FF6B6B&fire=4ECDC4&currStreakLabel=4ECDC4"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=laavkush&show_icons=true&theme=neon&hide_border=true&bg_color=0d1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=white&ring_color=4ECDC4"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=laavkush&theme=neon&hide_border=true&background=0d1117&stroke=4ECDC4&ring=FF6B6B&fire=4ECDC4&currStreakLabel=4ECDC4"/>
 
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsinghal021&layout=compact&theme=neon&hide_border=true&bg_color=0d1117&title_color=4ECDC4&text_color=white&langs_count=10&hide=jupyter%20notebook,javascript"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsinghal021&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=4ECDC4&area=true&hide_border=true&custom_title=🎮%20CODING%20ACTIVITY%20MAP"/>
 </div>
 
 ---
@@ -175,14 +134,6 @@
 </div>
 
 <div align="center">
-
-### 📈 **CODING STATISTICS**
-
-<a href="https://leetcode.com/u/zhQBmg4DDM/">
-  <img src="https://leetcode.card.workers.dev/zhQBmg4DDM?theme=dark&font=baloo&extension=null" alt="LeetCode Stats"/>
-</a>
-
-</div>
 
 ---
 
@@ -250,7 +201,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/laavanya-kushwaha-5748a5291/)
-[![GitHub](https://img.shields.io/badge/🐱_GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)]([https://github.com/ayushsinghal021](https://github.com/LaavKush))
+[![GitHub](https://img.shields.io/badge/🐱_GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/LaavKush)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:workwithlaavanya@gmail.com)
 
 </div>
