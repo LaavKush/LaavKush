@@ -220,7 +220,7 @@
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=laavkush&color=brightgreen&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/laavkush?style=for-the-badge&color=4ECDC4)
+<!--![GitHub followers](https://img.shields.io/github/followers/laavkush?style=for-the-badge&color=4ECDC4)-->
 
 
 **"🚀 Coding the future, one quantum bit at a time 🌌"**
