@@ -223,6 +223,6 @@
 <!--![GitHub followers](https://img.shields.io/github/followers/laavkush?style=for-the-badge&color=4ECDC4)-->
 
 
-**"🚀 Coding the future, one quantum bit at a time 🌌"**
+**"🌸 A girl with big dreams and bigger projects 🚀"**
 
 </div>
